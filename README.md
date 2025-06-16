@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashok Tallapelli</h1>
-<h3 align="center">A passionate Mobile Application Developer with a focus on building secure and scalable digital experiences.</h3>
+<h3 align="center">A technology specialist passionate about building intelligent and scalable digital solutions.</h3>
 
-- 🔭 Currently working as a **Technology Specialist at UOB Group**, contributing to innovative solutions in the Digital Banking domain  
-- 🌱 Continuously learning and exploring the evolving **mobile tech ecosystem**  
-- 💬 Ask me anything about **mobile architecture, Kotlin, Flutter, or cross-platform development**  
+- 🔭 Currently working as a **Technology Specialist at UOB Group**, driving innovation in the **Digital Banking** domain  
+- 🤖 Deeply interested in **AI, LLMs, and Agent Frameworks**; actively learning and experimenting in this space  
+- 💬 Ask me anything about **software architecture, scalable system design, or AI integrations**  
 - 📫 Reach me at: **ashok.tallapelli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,13 +17,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
