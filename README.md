@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Tallapelli</h1>
 <h3 align="center">Technology Specialist | AI Enthusiast | Builder of Scalable Systems</h3>
 
-- 👨‍💻 I'm a **Technology Specialist** with **15+ years** of experience in delivering scalable solutions across **banking**, **enterprise**, and **consumer domains**
+- 👨‍💻 I'm a **Technology Specialist** with **16+ years** of experience in delivering scalable solutions across **banking**, **enterprise**, and **consumer domains**
 - 🏦 Currently working as a **System Analyst**, driving solution design and system integration in **Digital Banking**  
 - 🤖 Exploring the future of software with **LLMs**, **AI agents**, **RAG**, and **multi-agent frameworks**  
 - 🧠 Building AI-driven projects using tools like **Ollama**, **Claude**, **LangGraph**, **FAISS**, and **custom MCP-based agents**
